@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:solx/login_screen.dart';
-import 'package:solx/register_screen.dart';
+import 'package:solx/presentation/screens/login_screen.dart';
+import 'package:solx/presentation/screens/register_screen.dart';
 
 class WelcomeScreen extends StatefulWidget {
   const WelcomeScreen({Key? key}) : super(key: key);

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:solx/welcome_screen.dart';
+import 'package:solx/presentation/screens/welcome_screen.dart';
 
 void main() {
   runApp(const MyApp());
